@@ -1,0 +1,39 @@
+body {
+    font-family: Raleway, Tahoma, Verdana, Arial, sans-serif;
+text-align: center;
+}
+.index {
+background: white;
+  background-size: 250px;
+  display: block;
+  height: 250px;
+  width: 333px;
+margin: 200px auto 0 auto;
+}
+h1 {
+    margin: 300px 0 0 0;
+    text-align: center;
+    display: none;
+    letter-spacing: 0.01em;
+    color: #ddd;
+    font-weight: bold;
+    font-size: 170px;
+font-family: arial;
+}
+h2 {
+margin-top: -50px;
+    text-align: center;
+    display: block;
+    letter-spacing: 0.3em;
+    color: #888;
+    font-weight: normal;
+    font-size: 18px;
+font-family: arial;
+}
+span {
+padding-top: 10px;
+text-align: center;
+display: block;
+font-size: 30px;
+font-weight: bold;
+}
